@@ -11,3 +11,8 @@ u bent nu bijna klaar, het enige wat er nog ontbreekt is de aanwijzingen wat de 
 hieronder heb ik een link gezet met voorbeeld codes, maar u kunt natuurlijk ook uw eigen maken!
 
 * voorbeeld codes -https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads
+
+als u een van deze codes heeft gevonden om te gebruiken kunt u de tekst kopieren.
+Deze zet u vervolgens in kladblok (standaard app van een pc) en drukt op opslaan als, dan kiest u voor alle bestanden ipv. jpeg en veranderd u de tekst an het eind van de naam van .jpeg naar .dd
+als u dit bestand hebt opgeslagen kunt u hem in de raspberry pi kopieren en werkt het script.
+LET OP!!!! dit script start automatisch
